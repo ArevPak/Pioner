@@ -1,0 +1,196 @@
+.input{
+	margin-top: 20px;
+	height: 20px;
+}
+.imgbutt{
+	height: 40px;
+}
+button.button1{
+	margin-left: 270px;
+	height: 40px;
+	width: 50px;
+	border:none;
+	background-color: white;
+	margin-top: 20px;
+}
+button.button1:hover{
+	cursor: pointer;
+	transform: scale(1.2);
+	transition: all 1s ease-in-out;
+}
+.poisk{
+	margin-left: 20px;
+	height: 20px;
+	width: 20px;
+	border:none;
+	background-color: white;
+}
+.logo{
+	height: 300px;
+	margin-left: 150px;
+	margin-top: 100px;
+}
+.logo:hover{
+	cursor: pointer;
+	
+}
+.texth2{
+	text-align: center;
+	font-family: courier new;
+	font-weight: lighter;
+}
+.df{
+	display: flex;
+}
+.martop{
+	margin-top: 100px;
+	align-content: center;
+}
+button.textbut{
+	font-size:  20px;
+	font-family: courier new;
+	border: none;
+	background-color:  white;
+	margin-left: 55px;
+	font-weight: bold;
+
+}
+.button2{
+	font-size:  20px;
+	font-family: courier new;
+	border: none;
+	background-color:  white;
+	margin-left: 20px;
+	font-weight: bold;
+}
+button.textbut:hover{
+	cursor: pointer;
+	transform: scale(1.2);
+	transition: all 1s ease-in-out;
+}
+div.room {
+	background: url(room2.png); 
+	width: 1000px;
+	height: 600px; 
+	background-size: 100%;
+	transition: all 1s ease-in-out;
+	margin-top: 20px;
+}
+div.room:hover {
+	background: url(room3.png);
+	width: 1000px;
+	height: 600px;
+	background-size: 100%;	
+}
+.texth4{
+	text-align: center;
+	font-family: courier new;
+	font-weight: normal;
+	font-size: 25px;
+	margin-bottom: 50px;
+	vertical-align: middle;
+	margin-top: 5px
+}
+}
+.textp2{
+	text-align: center;
+	font-family: courier new;
+	font-weight: normal;
+	font-size: 15px;
+	width: 900px;
+	margin-left: 50px;
+	text-align: 
+}
+.textoglav{
+	font-family: courier new;
+	font-weight: normal;
+	font-size: 20px;
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+}
+.imghr{
+	height: 300px;
+	width: 300px;
+	margin-left: 25px;
+	border-radius: 10px;
+}
+.imgpl{
+	height: 150px;
+	width: 150px;
+}
+.frame1{
+	 height: 100px;
+	 width: 270px;
+	 position: relative;
+	 margin-top: 25px;
+	 border: 5px solid rgba(255,255,255, 0.8);
+	 background: linear-gradient;
+}
+.marlpl1{
+	margin-top: 30px;
+}
+.frame{
+	 width: 600px;
+	 position: relative;
+	 margin: 200px auto 0;
+	 background: linear-gradient;
+}
+.frame a{
+	display: block;
+	color: #fff;
+	text-decoration: none;s
+}
+.frame a img{
+	width: 100%;
+	height: 100%;
+}
+.dws-text{
+	position: absolute;
+	top:0;
+	left:0;
+	padding: 30px 20px;
+	opacity: 0;
+	z-index: 100;
+	z-index: 100;
+	transition: .5s ease-in-out;
+}
+.texth3{
+	text-align: center;
+	font-family: courier new;
+	font-weight: bold;
+	font-size: 20px;
+	margin-bottom: 50px;
+	vertical-align: middle;
+	margin-top: 50px;
+	color: black;
+}
+.imagn{
+	background-image: url(krovat.png);
+	height: 150px;
+	width: 150px;
+	opacity: 0;
+}
+.frame:hover .dws-text{
+	opacity: 1;
+}
+.imagn:hover{
+	opacity: 1;
+	background: rgba(0.8);
+}
+.left{
+	margin-left: 50px;
+}
+.texth5{
+	margin-left: 100px;
+	font-family: courier new;
+	font-weight: bold;
+	font-size: 22px;
+}
+.textleft{
+	width: 500px;
+}
+
+Правильное обустройство спального места – залог комфортного сна
+Чтобы человек мог полноценно отдохнуть и как следует восстановить силы, ему требуется около 8 часов сна. Таким образом, около трети своей жизни мы проводим во сне, поэтому очень важно сделать спальное место максимально удобным и комфортным. И в этом процессе нет второстепенных деталей: желательно хорошо продумать выбор каждой составляющей комфорта. Спальное ложе должно быть красивым, удобным и максимально полезным для здоровья. Поговорим об основных компонентах привлекательного и функционального места для сна.
